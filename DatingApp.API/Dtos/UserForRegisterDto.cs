@@ -8,7 +8,7 @@ namespace DatingApp.API.Dtos
         [Required]
         public string Username { get; set; }
         [Required]
-        [StringLength(8, MinimumLength = 4, ErrorMessage = "tu contraseña debe ser entre 4 y 8")]
+        [StringLength(15, MinimumLength = 4, ErrorMessage = "tu contraseña debe ser entre 4 y 15")]
         public string Password { get; set; }
     }
 }
