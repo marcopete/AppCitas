@@ -1,0 +1,202 @@
+[
+    {
+      "Username": "Juana",
+      "Gender": "female",
+      "DateOfBirth": "1973-03-02",
+      "Password": "password",
+      "KnownAs": "Juana",
+      "Created": "2017-07-14",
+      "Introduction": "Juana de Arco, también conocida como la Doncella de Orleans, fue una joven campesina francesa que tuvo un papel crucial en la restauración de la corona francesa en la Guerra de los Cien Años.\r\n",
+      "LookingFor": "San Miguel, Santa Catalina y Santa Margarita.\r\n",
+      "Interests": "La guerra de los 100 años y evitar la muerte por temas religiosos.",
+      "City": "Domrémy",
+      "Country": "Francia",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/64.jpg",
+          "isMain": true,
+          "description": "Una vida es todo lo que tenemos y la vivimos como creemos en vivirla. Pero sacrificar lo que uno es y vivir sin creencia es un destino más terrible que morir."
+        }
+      ]
+    },
+    {
+      "Username": "Gabriela",
+      "Gender": "female",
+      "DateOfBirth": "1992-03-13",
+      "Password": "password",
+      "KnownAs": "Gabriela",
+      "Created": "2017-05-05",
+      "Introduction": "Gabriela Mistral fue una de las poetas más notables de la literatura chilena e hispanoamericana. Se le considera una de las principales referentes de la poesía femenina universal y por su obra obtuvo en 1945 el primer Premio Nobel de Literatura para un autor latinoamericano.\r\n",
+      "LookingFor": "Literatura, educación, poesía.\r\n",
+      "Interests": "Profesora antes que escritora.",
+      "City": "Vicuña",
+      "Country": "Chile",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/91.jpg",
+          "isMain": true,
+          "description": "La enseñanza de los niños es tal vez la forma más alta de buscar a Dios; pero es también la más terrible en el sentido de tremenda responsabilidad."
+        }
+      ]
+    },
+    {
+      "Username": "Michelle",
+      "Gender": "female",
+      "DateOfBirth": "1997-12-17",
+      "Password": "password",
+      "KnownAs": "Michelle",
+      "Created": "2017-06-21",
+      "Introduction": "Verónica Michelle Bachelet Jeria​ es una médica y política chilena. Bachelet ostentó la presidencia de su país en dos periodos no consecutivos: entre el 11 de marzo de 2006 y el mismo día de 2010.\r\n",
+      "LookingFor": "Corredores de terrenos, guardería para adultos.\r\n",
+      "Interests": "Viejitos vigorosos dicharacheros, onu mujeres.",
+      "City": "Santiago",
+      "Country": "Chile",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/30.jpg",
+          "isMain": true,
+          "description": "Yo te sugiero (usarlo), porque eso, en este país, sigue siendo grito y plata."
+        }
+      ]
+    },
+    {
+      "Username": "Isabel",
+      "Gender": "female",
+      "DateOfBirth": "2001-03-01",
+      "Password": "password",
+      "KnownAs": "Isabel",
+      "Created": "2017-02-05",
+      "Introduction": "Escritora chilena. Hija de un diplomático chileno que le inculcó su afición por las letras, Isabel Allende cursó estudios de periodismo.\r\n",
+      "LookingFor": "Abogados, escritores, políticos.\r\n",
+      "Interests": "Que no me confundan con la política que se llama igual a mi.",
+      "City": "Lima",
+      "Country": "Peru",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/56.jpg",
+          "isMain": true,
+          "description": "Me explicaste que de la quietud nace la inspiración y del movimiento surge la creatividad."
+        }
+      ]
+    },
+    {
+      "Username": "Eloisa",
+      "Gender": "female",
+      "DateOfBirth": "1998-02-14",
+      "Password": "password",
+      "KnownAs": "Eloisa",
+      "Created": "2017-06-04",
+      "Introduction": "Eloísa Díza fue la primera mujer estudiante de medicina de la Universidad de Chile y la primera médico de Chile y América del Sur.\r\n",
+      "LookingFor": "Hospitales, investigación, medicina.\r\n",
+      "Interests": "Mejor salud en chile, entender el cuerpo humano.",
+      "City": "Santiago",
+      "Country": "Chile",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/89.jpg",
+          "isMain": true,
+          "description": "La ley se oponía a ello cerrándola el paso que conducía a las aulas oficiales, en las diversas gradaciones de la enseñanza secundaria y superior (…) Pero los tiempos cambian."
+        }
+      ]
+    },
+    {
+          "Username": "Pablo",
+          "Gender": "male",
+          "DateOfBirth": "1988-11-18",
+          "Password": "password",
+          "KnownAs": "Pablo",
+          "Created": "2017-01-29",
+          "Introduction": "Ricardo Eliécer Neftalí Reyes Basoalto, más conocido como Pablo Neruda, fue uno de los poetas chilenos más importantes e influyentes de la historia. Ganó el premio Nobel de Literatura en 1971 y su trabajo ha sido traducido a 35 idiomas.\r\n",
+          "LookingFor": "Comunismo, poesía, literatura.\r\n",
+          "Interests": "Bohemia intelectual, congreso, embajadas.",
+          "City": "Parral",
+          "Country": "Chile",
+          "Photos": [
+            {
+              "url": "https://randomuser.me/api/portraits/men/95.jpg",
+              "isMain": true,
+              "description": "Me gustas cuando callas porque echai andar esta wea."
+            }
+          ]
+        },
+        {
+          "Username": "Salvador",
+          "Gender": "male",
+          "DateOfBirth": "1964-07-11",
+          "Password": "password",
+          "KnownAs": "Salvador",
+          "Created": "2017-05-23",
+          "Introduction": "Salvador Allende fue un médico cirujano titulado de la Universidad de Chile, que llegó a la presidencia de Chile el 3 de noviembre de 1970, tras haber sido candidato en cuatro oportunidades.\r\n",
+          "LookingFor": "Comunismo, politica, pueblo libre.\r\n",
+          "Interests": "Copete, bohemia intelectual, copete, idealismo, copete.",
+          "City": "Santiago",
+          "Country": "Chile",
+          "Photos": [
+            {
+              "url": "https://randomuser.me/api/portraits/men/21.jpg",
+              "isMain": true,
+              "description": "Irure ex pariatur incididunt ipsum ipsum."
+            }
+          ]
+        },
+        {
+          "Username": "Victor",
+          "Gender": "male",
+          "DateOfBirth": "1994-06-23",
+          "Password": "password",
+          "KnownAs": "Victor",
+          "Created": "2017-05-04",
+          "Introduction": "Víctor Lidio Jara Martínez fue un músico, cantautor, profesor y director de teatro chileno. Fue militante del Partido Comunista de Chile.\r\n",
+          "LookingFor": "Fuerza, valor, música, inteligencia, directo, expropiar.\r\n",
+          "Interests": "El pueblo, composición musical, chile.",
+          "City": "San Ignacio",
+          "Country": "Chile",
+          "Photos": [
+            {
+              "url": "https://randomuser.me/api/portraits/men/40.jpg",
+              "isMain": true,
+              "description": "Usted debe responder, señor Pérez Zújovic, por qué al pueblo indefenso, contestaron con fusil. Señor Pérez, su conciencia la enterró en un ataúd y no limpiará sus manos toda la lluvia del sur."
+            }
+          ]
+        },
+        {
+          "Username": "Bernardo",
+          "Gender": "male",
+          "DateOfBirth": "1976-12-17",
+          "Password": "password",
+          "KnownAs": "Bernardo",
+          "Created": "2017-01-05",
+          "Introduction": "Bernardo O'Higgins Riquelme (1778 - 1842) es considerado el padre de la patria. Su presencia, como militar y gobernante, fue crucial en todo el proceso de emancipación chilena del dominio español.\r\n",
+          "LookingFor": "Pruebas de adn, amor de madre, militares, chile.\r\n",
+          "Interests": "Argentinos como San Martín, poder, que no me digan más huacho.",
+          "City": "Lima",
+          "Country": "Perú",
+          "Photos": [
+            {
+              "url": "https://randomuser.me/api/portraits/men/54.jpg",
+              "isMain": true,
+              "description": "¡Vivir con honor, o morir con gloria!, ¡El que sea valiente que me siga!"
+            }
+          ]
+        },
+        {
+          "Username": "Pedro",
+          "Gender": "male",
+          "DateOfBirth": "1959-01-11",
+          "Password": "password",
+          "KnownAs": "Pedro",
+          "Created": "2017-01-20",
+          "Introduction": "Profesor, abogado y político, miembro del Partido Radical. Senador entre 1921 a 1927 y diputado en dos periodos, entre 1915 y 1921. Presidente de la República entre 1938 y 1941.\r\n",
+          "LookingFor": "Radicales, profesores, politicos, masones.\r\n",
+          "Interests": "Mejorar chile, politica, poesia, la moneda",
+          "City": "Pocuro",
+          "Country": "Chile",
+          "Photos": [
+            {
+              "url": "https://randomuser.me/api/portraits/men/33.jpg",
+              "isMain": true,
+              "description": "GOBERNAR ES EDUCAR"
+            }
+          ]
+        }
+      ]
