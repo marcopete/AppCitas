@@ -37,16 +37,17 @@ namespace DatingApp.API.Controllers
                 return BadRequest("el usuario ya existe y es independiente de la mayuscula juan = Juan");
 
 
-            var userToCreate = new User
-            {
-                Username = userForRegisterDto.Username
-            };
+            var userToCreate = _mapper.Map<User>(userForRegisterDto);
 
             var createdUser = await _repo.Register(userToCreate, userForRegisterDto.Password);
 
-            return StatusCode(201);
+            var userToReturn = _mapper.Map<UserForDetailedDto>(createdUser);
+
+            return CreatedAtRoute("GetUser", new { controller = "Users",
+               id = createdUser.Id }, userToReturn);
             //return CreatedAtRoute()
         }
+        
         // Llamado a "funcion" de login
         [HttpPost("login")]
         public async Task<IActionResult> Login(UserForLoginDto userForLoginDto)
