@@ -25,5 +25,7 @@ namespace DatingApp.API.Models
 
 // ICollection requiere using System.Collections.Generic;
         public ICollection<Photo> Photos { get; set; }
+        public ICollection<Like> Likers { get; set; }
+        public ICollection<Like> Likees { get; set; }
     }
 }
