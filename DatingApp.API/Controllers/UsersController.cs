@@ -89,6 +89,12 @@ namespace DatingApp.API.Controllers
             if (like != null)
                 return BadRequest("Ya le diste like a este!!");
 
+            // Como hay filtro de no mostrar al usuario, esto es netamente informativo
+            
+            // if (recipientId == id){
+            //     return BadRequest($"No te puedes dar like a ti mismo");
+            // }                
+
             if (await _repo.GetUser(recipientId) == null)
                 return NotFound();
 
