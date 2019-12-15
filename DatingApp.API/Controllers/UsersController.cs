@@ -87,7 +87,12 @@ namespace DatingApp.API.Controllers
             var like = await _repo.GetLike(id, recipientId);
 
             if (like != null)
-                return BadRequest("Ya le diste like a este!!");
+            {
+                var user = await _repo.GetUser(recipientId);
+                var userToReturn = _mapper.Map<UserForDetailedDto>(user);
+                
+                return BadRequest($"Ya le diste like a {userToReturn.KnownAs}");
+            }    
 
             // Como hay filtro de no mostrar al usuario, esto es netamente informativo
             

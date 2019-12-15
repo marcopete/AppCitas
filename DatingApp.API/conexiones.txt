@@ -1,0 +1,2 @@
+sqlite: "DefaultConnection": "Data source=DatingApp.db"
+mysql : "DefaultConnection": "Server=localhost; Database=datingapp; Uid=appuser; Pwd=123qweasd"

@@ -4,7 +4,6 @@ D:\Marco\DatingApp\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API
 D:\Marco\DatingApp\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
 D:\Marco\DatingApp\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
-D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
@@ -12,3 +11,4 @@ D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
+D:\Marco\DatingApp\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
